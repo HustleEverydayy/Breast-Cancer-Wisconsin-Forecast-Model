@@ -4,6 +4,9 @@
 #中文字幕要載才能顯示
 
 #import pandas as pd
+
 #import seaborn as sns
+
 #import numpy as np
+
 #import matplotlib.pyplot as plt
